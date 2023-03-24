@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 19.918956916099773 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "VAD" 
+        xmin = 0 
+        xmax = 19.918956916099773 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4644784580498867 
+            text = "" 
+        intervals [2]:
+            xmin = 0.4644784580498867 
+            xmax = 1.0977997768133925 
+            text = "hum_2_1" 
+        intervals [3]:
+            xmin = 1.0977997768133925 
+            xmax = 2.3144784580498867 
+            text = "" 
+        intervals [4]:
+            xmin = 2.3144784580498867 
+            xmax = 3.0322865243943102 
+            text = "hum_2_2" 
+        intervals [5]:
+            xmin = 3.0322865243943102 
+            xmax = 5.004478458049887 
+            text = "" 
+        intervals [6]:
+            xmin = 5.004478458049887 
+            xmax = 5.891510672548959 
+            text = "hum_3_1" 
+        intervals [7]:
+            xmin = 5.891510672548959 
+            xmax = 7.614478458049887 
+            text = "" 
+        intervals [8]:
+            xmin = 7.614478458049887 
+            xmax = 8.603098934115375 
+            text = "hum_3_2" 
+        intervals [9]:
+            xmin = 8.603098934115375 
+            xmax = 10.214478458049888 
+            text = "" 
+        intervals [10]:
+            xmin = 10.214478458049888 
+            xmax = 11.107439196077095 
+            text = "hum_3_3" 
+        intervals [11]:
+            xmin = 11.107439196077095 
+            xmax = 13.034478458049886 
+            text = "" 
+        intervals [12]:
+            xmin = 13.034478458049886 
+            xmax = 14.22832371125853 
+            text = "hum_4_2" 
+        intervals [13]:
+            xmin = 14.22832371125853 
+            xmax = 15.734478458049887 
+            text = "" 
+        intervals [14]:
+            xmin = 15.734478458049887 
+            xmax = 17.011917752155966 
+            text = "hum_4_3" 
+        intervals [15]:
+            xmin = 17.011917752155966 
+            xmax = 18.534478458049886 
+            text = "" 
+        intervals [16]:
+            xmin = 18.534478458049886 
+            xmax = 19.68032742001444 
+            text = "hum_4_4" 
+        intervals [17]:
+            xmin = 19.68032742001444 
+            xmax = 19.918956916099773 
+            text = "" 
